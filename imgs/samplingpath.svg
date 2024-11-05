@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="samplingpath.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="396.18342"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="344.8171"
+       y="766.0854"
+       width="313.62933"
+       height="114.87777"
+       id="rect9" />
+    <rect
+       x="339.0782"
+       y="63.164478"
+       width="356.68684"
+       height="83.767671"
+       id="rect8" />
+    <rect
+       x="356.46753"
+       y="43.991791"
+       width="351.88487"
+       height="129.79575"
+       id="rect7" />
+    <rect
+       x="97.782349"
+       y="672.65906"
+       width="234.03489"
+       height="85.447544"
+       id="rect6" />
+    <rect
+       x="258.2503"
+       y="378.91579"
+       width="147.0086"
+       height="81.641076"
+       id="rect5" />
+    <marker
+       style="overflow:visible"
+       id="ColoredDot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Colored dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:2"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path20" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#010000;fill-opacity:1;stroke:#000000;stroke-width:0.564999"
+       id="path1"
+       cx="83.355659"
+       cy="96.073853"
+       inkscape:label="data"
+       r="1" />
+    <path
+       style="fill:#00c8c8;fill-opacity:0.287374;stroke:#000000;stroke-width:0.564999"
+       d="M 39.108165,36.305101 C 26.177199,50.802337 19.804474,70.936828 22.039203,90.234126 24.109011,108.1073 32.991634,124.34323 41.0192,140.4458 c 4.191442,8.40765 8.340161,17.11692 15.17626,23.56087 3.41805,3.22198 7.494778,5.8158 12.007496,7.11948 4.512718,1.30368 9.47574,1.25897 13.816051,-0.53711 4.349807,-1.80001 7.866933,-5.24542 10.463905,-9.17181 2.596972,-3.9264 4.352466,-8.34084 5.973845,-12.76034 1.621383,-4.4195 3.135493,-8.89926 5.310323,-13.0743 2.17483,-4.17504 5.06904,-8.07751 8.95275,-10.7379 5.64305,-3.86556 12.79247,-4.75547 19.63231,-4.81165 6.83984,-0.0562 13.74762,0.60215 20.47725,-0.62204 9.48364,-1.72517 18.1257,-7.23834 24.14592,-14.76646 6.02023,-7.528122 9.46837,-16.972838 10.30106,-26.576083 0.96537,-11.133366 -1.67701,-22.798479 -8.55171,-31.608826 -3.43736,-4.405174 -7.88944,-8.041589 -12.97445,-10.35754 -5.08501,-2.315951 -10.80162,-3.288339 -16.3461,-2.595737 -7.99346,0.998522 -15.12668,5.281561 -22.31889,8.909876 -3.5961,1.814157 -7.28654,3.491815 -11.17778,4.531693 -3.89124,1.039877 -8.01046,1.424931 -11.96061,0.637886 C 98.022789,46.405477 92.930783,42.719037 88.29112,38.851095 83.651458,34.983153 79.160885,30.777182 73.693469,28.209147 67.913385,25.494253 61.211602,24.790789 54.993764,26.246301 48.775927,27.701813 43.08269,31.306784 39.108165,36.305101 Z"
+       id="path3"
+       inkscape:path-effect="#path-effect3"
+       inkscape:original-d="M 39.108165,36.305101 C 27.579732,38.216376 27.850182,72.271161 22.039203,90.234126 16.228225,108.19709 34.571212,123.68405 41.0192,140.4458 c 6.447989,16.76174 27.22341,19.90979 40.999807,30.14324 13.776396,10.23345 20.692973,-30.37491 30.700823,-45.74435 10.00785,-15.36945 26.5386,-3.80689 40.10956,-5.43369 13.57096,-1.6268 23.0498,-27.498588 34.44698,-41.342543 C 198.67356,64.224502 162.02819,48.360388 149.40411,33.506354 136.78001,18.652319 119.09926,42.892659 103.94683,47.585809 88.794412,52.278962 83.777925,34.668036 73.693469,28.209147 63.609013,21.75026 50.636601,33.212762 39.108165,36.305101 Z" />
+    <path
+       style="fill:none;fill-opacity:0.287374;stroke:#000000;stroke-width:0.765;stroke-dasharray:0.76499999, 0.76499999;stroke-dashoffset:0;marker-end:url(#Triangle);marker-mid:url(#marker5);marker-start:url(#ColoredDot)"
+       d="m 185.32072,264.6078 c -5.1592,-28.14935 -12.66634,-55.86799 -22.41789,-82.77357 -6.82792,-18.83898 -14.75532,-37.28541 -20.86016,-56.37097 -1.87916,-5.87483 -3.5907,-11.8235 -6.0933,-17.46104 -2.5026,-5.63754 -5.85556,-11.007727 -10.53433,-15.026929 -5.92676,-5.091267 -13.88137,-7.752281 -21.67863,-7.252037 -7.797264,0.500243 -15.346621,4.155935 -20.574197,9.962823"
+       id="path4"
+       inkscape:path-effect="#path-effect4"
+       inkscape:original-d="m 185.32072,264.6078 c -7.47263,-27.00899 -14.94526,-55.04407 -22.41789,-82.77357 -7.47263,-27.7295 -13.90677,-37.47878 -20.86016,-56.37097 -6.95338,-18.89218 -11.08509,-21.89243 -16.62763,-32.487969 -5.54255,-10.595546 -28.168554,2.04097 -42.252827,2.710786" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,37.041668,-79.375004)"
+       id="text5"
+       style="font-size:26.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect6);fill:none;fill-opacity:0.287374;stroke:#000000;stroke-width:1.37953;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+         x="103.93378"
+         y="695.96211"
+         id="tspan2"><tspan
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1">wahrscheinlichster </tspan></tspan><tspan
+         x="145.86092"
+         y="729.29548"
+         id="tspan4"><tspan
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan3">Datenpunkt</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6"
+       style="fill:#000000;stroke-width:1.37952756;-inkscape-font-specification:'Abyssinica SIL';font-family:'Abyssinica SIL';font-size:26.66666667px;text-align:center;stroke:none;fill-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect7)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7"
+       style="font-size:26.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect8);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.37953;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+         x="410.1496"
+         y="86.46797"
+         id="tspan5">Region mit hoher </tspan><tspan
+         x="362.13522"
+         y="119.80134"
+         id="tspan6">Wahrscheinlichkeitsdichte</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="font-size:26.6667px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect9);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.37953;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+         x="348.64336"
+         y="789.38985"
+         id="tspan7">Weg des Diffusionmodels </tspan><tspan
+         x="355.72019"
+         y="822.72322"
+         id="tspan8">von Rauschen zu einem </tspan><tspan
+         x="478.04457"
+         y="856.05659"
+         id="tspan10">Bild</tspan></text>
+  </g>
+</svg>

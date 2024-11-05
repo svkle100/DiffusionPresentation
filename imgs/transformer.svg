@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="transformer.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.75989759"
+     inkscape:cx="530.33462"
+     inkscape:cy="396.10601"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="613.43755"
+       y="895.97307"
+       width="381.2854"
+       height="66.97712"
+       id="rect58" />
+    <rect
+       x="306.8907"
+       y="154.74967"
+       width="357.95863"
+       height="35.110989"
+       id="rect57" />
+    <rect
+       x="589.3067"
+       y="895.36272"
+       width="201.40653"
+       height="37.88336"
+       id="rect52" />
+    <rect
+       x="735.63363"
+       y="314.78935"
+       width="15.463172"
+       height="378.96137"
+       id="rect51" />
+    <marker
+       style="overflow:visible"
+       id="marker51"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path51" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path50" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path47" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker109"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path109" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker107"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path107" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker90"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path90" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#030303;stroke-width:0.262458;stroke-opacity:1"
+         id="rect3"
+         width="89.737541"
+         height="19.737543"
+         x="55.131229"
+         y="260.13123" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1;stroke:#030303;stroke-width:0.264583;stroke-opacity:1"
+         x="101.64433"
+         y="271.96136"
+         id="text4"
+         inkscape:transform-center-x="0.33313612"
+         inkscape:transform-center-y="-0.68446639"
+         transform="translate(-2.964104e-4,3.1999592)"><tspan
+           x="74.316895"
+           y="269.4946"
+           id="tspan3"><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan1">I</tspan><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan2">nputstring</tspan></tspan></text>
+    </g>
+    <g
+       id="g89"
+       transform="translate(-4.0233135e-7,-29.999997)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#030303;stroke-width:0.262458;stroke-opacity:1"
+         id="rect87"
+         width="89.737541"
+         height="19.737543"
+         x="55.131229"
+         y="260.13123" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;white-space:pre;shape-inside:url(#rect87);fill:#ffffff;fill-opacity:1;stroke:#030303;stroke-width:0.264583;stroke-opacity:1"
+         x="101.64433"
+         y="271.96136"
+         id="text89"
+         inkscape:transform-center-x="0.33313612"
+         inkscape:transform-center-y="-0.68446639"
+         inkscape:label="text89"
+         transform="translate(1.4322116e-4,3.6995167)"><tspan
+           x="75.265154"
+           y="269.4946"
+           id="tspan5"><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan4">Tokenizer</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker90);marker-end:url(#Triangle)"
+       d="m 100,260.13123 0,-10.26246"
+       id="path89"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g5"
+       inkscape:connection-end="#g89"
+       inkscape:label="path89" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker107)"
+       d="m 122.55719,230.13123 46.43034,-20.31327"
+       id="path106"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g89"
+       inkscape:connection-end="#g87"
+       inkscape:label="path106" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker109)"
+       d="m 108.45895,230.13123 17.41137,-20.31327"
+       id="path108"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g89"
+       inkscape:connection-end="#g96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2)"
+       d="M 94.360701,230.13123 82.753118,209.81796"
+       id="path1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g89"
+       inkscape:connection-end="#g101" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4)"
+       d="M 80.262454,230.13123 39.635911,209.81796"
+       id="path3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g89"
+       inkscape:connection-end="#g106" />
+    <rect
+       style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:1.13485;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="188.86514"
+       height="123.86515"
+       x="11.642994"
+       y="64.867424" />
+    <g
+       id="g10"
+       style="display:inline">
+      <rect
+         style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.526873;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10"
+         width="169.47313"
+         height="19.473127"
+         x="20.263437"
+         y="160.26344" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;white-space:pre;shape-inside:url(#rect10);fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+         x="175.40755"
+         y="166.58437"
+         id="text10"><tspan
+           x="23.234167"
+           y="172.74869"
+           id="tspan7"><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.565"
+             id="tspan6">Attenention-Mechanismus</tspan></tspan></text>
+    </g>
+    <g
+       id="g11"
+       transform="translate(0,-30.000006)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.526873;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11"
+         width="169.47313"
+         height="19.473127"
+         x="20.263437"
+         y="160.26344" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+         x="175.40755"
+         y="166.58437"
+         id="text11"><tspan
+           x="24.240134"
+           y="172.74869"
+           id="tspan9"><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.565"
+             id="tspan8">Addieren und Layernorm</tspan></tspan></text>
+    </g>
+    <g
+       id="g13"
+       transform="translate(0,-60.000006)">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.526873;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13"
+         width="169.47313"
+         height="19.473127"
+         x="20.263437"
+         y="160.26344" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+         x="175.40755"
+         y="166.58437"
+         id="text13"><tspan
+           x="33.927735"
+           y="172.74869"
+           id="tspan11"><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.565"
+             id="tspan10">Fully-Connected-Layer</tspan></tspan></text>
+    </g>
+    <g
+       id="g14"
+       transform="translate(0,-90.000006)"
+       inkscape:label="g14"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.526873;stroke-dasharray:none;stroke-opacity:1"
+         id="rect14"
+         width="169.47313"
+         height="19.473127"
+         x="20.263437"
+         y="160.26344" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+         x="175.40755"
+         y="166.58437"
+         id="text14"><tspan
+           x="24.240134"
+           y="172.74869"
+           id="tspan13"><tspan
+             style="font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.565"
+             id="tspan12">Addieren und Layernorm</tspan></tspan></text>
+    </g>
+    <g
+       id="g12"
+       style="display:inline">
+      <path
+         style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+         d="M 29.736731,199.88534 V 180.4005"
+         id="path5"
+         inkscape:label="path5" />
+      <path
+         style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.733886;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8)"
+         d="M 79.758675,199.87911 V 180.40443"
+         id="path7" />
+      <path
+         style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+         d="M 129.73673,199.88534 V 180.4005"
+         id="path9"
+         inkscape:label="path5" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+         d="M 179.73673,199.88534 V 180.4005"
+         id="path10"
+         inkscape:label="path5"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:label="GridCartesian:X5:Y1"
+         transform="matrix(1.5801397,0,0,1.9271819,160.24825,200.18205)"
+         id="g87"
+         style="fill:#284cf4;fill-opacity:0.611961">
+        <g
+           inkscape:label="MajorXGridlines"
+           id="g85"
+           style="fill:#284cf4;fill-opacity:0.611961">
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 5,0 V 5"
+             inkscape:label="MajorXDiv1"
+             id="path82" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 10,0 V 5"
+             inkscape:label="MajorXDiv2"
+             id="path83" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 15,0 V 5"
+             inkscape:label="MajorXDiv3"
+             id="path84" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 20,0 V 5"
+             inkscape:label="MajorXDiv4"
+             id="path85" />
+        </g>
+        <g
+           inkscape:label="MajorYGridlines"
+           id="g86"
+           style="fill:#284cf4;fill-opacity:0.611961" />
+        <rect
+           x="0"
+           y="0"
+           width="25"
+           height="5"
+           style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+           inkscape:label="Border"
+           id="rect86" />
+      </g>
+      <g
+         inkscape:label="GridCartesian:X5:Y1"
+         transform="matrix(1.5801397,0,0,1.9271819,110.24825,200.18205)"
+         id="g96"
+         style="fill:#284cf4;fill-opacity:0.611961">
+        <g
+           inkscape:label="MajorXGridlines"
+           id="g94"
+           style="fill:#284cf4;fill-opacity:0.611961">
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 5,0 V 5"
+             inkscape:label="MajorXDiv1"
+             id="path91" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 10,0 V 5"
+             inkscape:label="MajorXDiv2"
+             id="path92" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 15,0 V 5"
+             inkscape:label="MajorXDiv3"
+             id="path93" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 20,0 V 5"
+             inkscape:label="MajorXDiv4"
+             id="path94" />
+        </g>
+        <g
+           inkscape:label="MajorYGridlines"
+           id="g95"
+           style="fill:#284cf4;fill-opacity:0.611961" />
+        <rect
+           x="0"
+           y="0"
+           width="25"
+           height="5"
+           style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+           inkscape:label="Border"
+           id="rect95" />
+      </g>
+      <g
+         inkscape:label="GridCartesian:X5:Y1"
+         transform="matrix(1.5801397,0,0,1.9271819,60.248254,200.18205)"
+         id="g101"
+         style="fill:#284cf4;fill-opacity:0.611961">
+        <g
+           inkscape:label="MajorXGridlines"
+           id="g99"
+           style="fill:#284cf4;fill-opacity:0.611961">
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 5,0 V 5"
+             inkscape:label="MajorXDiv1"
+             id="path96" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 10,0 V 5"
+             inkscape:label="MajorXDiv2"
+             id="path97" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 15,0 V 5"
+             inkscape:label="MajorXDiv3"
+             id="path98" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 20,0 V 5"
+             inkscape:label="MajorXDiv4"
+             id="path99" />
+        </g>
+        <g
+           inkscape:label="MajorYGridlines"
+           id="g100"
+           style="fill:#284cf4;fill-opacity:0.611961" />
+        <rect
+           x="0"
+           y="0"
+           width="25"
+           height="5"
+           style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+           inkscape:label="Border"
+           id="rect100" />
+      </g>
+      <g
+         inkscape:label="GridCartesian:X5:Y1"
+         transform="matrix(1.5801397,0,0,1.9271819,10.248254,200.18205)"
+         id="g106"
+         style="fill:#284cf4;fill-opacity:0.611961">
+        <g
+           inkscape:label="MajorXGridlines"
+           id="g104"
+           style="fill:#284cf4;fill-opacity:0.611961">
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 5,0 V 5"
+             inkscape:label="MajorXDiv1"
+             id="path101" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 10,0 V 5"
+             inkscape:label="MajorXDiv2"
+             id="path102" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 15,0 V 5"
+             inkscape:label="MajorXDiv3"
+             id="path103" />
+          <path
+             style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+             d="M 20,0 V 5"
+             inkscape:label="MajorXDiv4"
+             id="path104" />
+        </g>
+        <g
+           inkscape:label="MajorYGridlines"
+           id="g105"
+           style="fill:#284cf4;fill-opacity:0.611961" />
+        <rect
+           x="0"
+           y="0"
+           width="25"
+           height="5"
+           style="fill:#284cf4;fill-opacity:0.611961;stroke:#000000;stroke-width:0.264583"
+           inkscape:label="Border"
+           id="rect105" />
+      </g>
+    </g>
+    <g
+       id="g37"
+       inkscape:label="g37"
+       transform="translate(0,-157.46728)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47)"
+         d="M 105,317.73072 V 307.20384"
+         id="path46"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g10"
+         inkscape:connection-end="#g11" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker51)"
+         d="m 105,287.73072 0,-10.52688"
+         id="path48"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g11"
+         inkscape:connection-end="#g13" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker50)"
+         d="m 105,257.73072 0,-10.52688"
+         id="path49"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g13"
+         inkscape:connection-end="#g14" />
+    </g>
+    <g
+       id="g51"
+       transform="translate(0,-37.041668)">
+      <g
+         id="g39"
+         transform="translate(0,-158.9271)"
+         style="fill:#c31a1a;fill-opacity:0.717708">
+        <g
+           inkscape:label="GridCartesian:X5:Y1"
+           transform="matrix(1.5801397,0,0,1.9271819,160.24825,200.18205)"
+           id="g21"
+           style="fill:#c31a1a;fill-opacity:0.717708">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g19"
+             style="fill:#c31a1a;fill-opacity:0.717708">
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 5,0 V 5"
+               inkscape:label="MajorXDiv1"
+               id="path16" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 10,0 V 5"
+               inkscape:label="MajorXDiv2"
+               id="path17" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 5"
+               inkscape:label="MajorXDiv3"
+               id="path18" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 20,0 V 5"
+               inkscape:label="MajorXDiv4"
+               id="path19" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g20"
+             style="fill:#c31a1a;fill-opacity:0.717708" />
+          <rect
+             x="0"
+             y="0"
+             width="25"
+             height="5"
+             style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect20" />
+        </g>
+        <g
+           inkscape:label="GridCartesian:X5:Y1"
+           transform="matrix(1.5801397,0,0,1.9271819,110.24825,200.18205)"
+           id="g26"
+           style="fill:#c31a1a;fill-opacity:0.717708">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g24"
+             style="fill:#c31a1a;fill-opacity:0.717708">
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 5,0 V 5"
+               inkscape:label="MajorXDiv1"
+               id="path21" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 10,0 V 5"
+               inkscape:label="MajorXDiv2"
+               id="path22" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 5"
+               inkscape:label="MajorXDiv3"
+               id="path23" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 20,0 V 5"
+               inkscape:label="MajorXDiv4"
+               id="path24" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g25"
+             style="fill:#c31a1a;fill-opacity:0.717708" />
+          <rect
+             x="0"
+             y="0"
+             width="25"
+             height="5"
+             style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect25" />
+        </g>
+        <g
+           inkscape:label="GridCartesian:X5:Y1"
+           transform="matrix(1.5801397,0,0,1.9271819,60.248255,200.18205)"
+           id="g31"
+           style="fill:#c31a1a;fill-opacity:0.717708">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g29"
+             style="fill:#c31a1a;fill-opacity:0.717708">
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 5,0 V 5"
+               inkscape:label="MajorXDiv1"
+               id="path26" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 10,0 V 5"
+               inkscape:label="MajorXDiv2"
+               id="path27" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 5"
+               inkscape:label="MajorXDiv3"
+               id="path28" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 20,0 V 5"
+               inkscape:label="MajorXDiv4"
+               id="path29" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g30"
+             style="fill:#c31a1a;fill-opacity:0.717708" />
+          <rect
+             x="0"
+             y="0"
+             width="25"
+             height="5"
+             style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect30" />
+        </g>
+        <g
+           inkscape:label="GridCartesian:X5:Y1"
+           transform="matrix(1.5801397,0,0,1.9271819,10.248254,200.18205)"
+           id="g36"
+           style="fill:#c31a1a;fill-opacity:0.717708">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g34"
+             style="fill:#c31a1a;fill-opacity:0.717708">
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 5,0 V 5"
+               inkscape:label="MajorXDiv1"
+               id="path31" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 10,0 V 5"
+               inkscape:label="MajorXDiv2"
+               id="path32" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 5"
+               inkscape:label="MajorXDiv3"
+               id="path33" />
+            <path
+               style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+               d="M 20,0 V 5"
+               inkscape:label="MajorXDiv4"
+               id="path34" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g35"
+             style="fill:#c31a1a;fill-opacity:0.717708" />
+          <rect
+             x="0"
+             y="0"
+             width="25"
+             height="5"
+             style="fill:#c31a1a;fill-opacity:0.717708;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect35" />
+        </g>
+      </g>
+      <g
+         id="g38"
+         transform="translate(0,-129.08208)">
+        <path
+           style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+           d="M 29.736731,199.88534 V 180.4005"
+           id="path12"
+           inkscape:label="path5" />
+        <path
+           style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+           d="M 179.73673,199.88534 V 180.4005"
+           id="path15"
+           inkscape:label="path5" />
+        <path
+           style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.726756;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6)"
+           d="M 129.73673,199.88534 V 180.4005"
+           id="path14"
+           inkscape:label="path5" />
+        <path
+           style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.733886;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8)"
+           d="M 79.758675,199.87911 V 180.40443"
+           id="path13" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.36708726,-0.36708726,0,528.06286,-127.94341)"
+       id="text51"
+       style="font-size:21.1424px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect52);fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:2.13543;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="0"
+       y="0"><tspan
+         x="602.59089"
+         y="913.83953"
+         id="tspan15"><tspan
+           style="text-anchor:middle"
+           id="tspan14">Transformer-Block</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.0964548;stroke:#000000;stroke-width:0.451651;stroke-dasharray:none;stroke-opacity:1"
+       id="rect53"
+       width="189.54834"
+       height="19.548349"
+       x="11.301394"
+       y="33.304985" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.564999;stroke-linejoin:miter;stroke-dasharray:0.564999, 0.564999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker50)"
+       d="M 29.238893,69.739295 V 52.332551"
+       id="path53" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.564999;stroke-linejoin:miter;stroke-dasharray:0.564999, 0.564999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker50)"
+       d="M 79.238893,69.739295 V 52.332551"
+       id="path54" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.564999;stroke-linejoin:miter;stroke-dasharray:0.564999, 0.564999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker50)"
+       d="M 129.23889,69.739295 V 52.332551"
+       id="path55" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.564999;stroke-linejoin:miter;stroke-dasharray:0.564999, 0.564999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker50)"
+       d="M 179.23889,69.739295 V 52.332551"
+       id="path56" />
+    <text
+       xml:space="preserve"
+       id="text57"
+       style="font-size:14.1111px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect53);fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.565;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="47.729103"
+         y="45.636314"
+         id="tspan16">Transformer-Block</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-105.83334,-181.50423)"
+       id="text58"
+       style="font-size:21.3333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:center;white-space:pre;shape-inside:url(#rect58);fill:#000000;fill-opacity:1;stroke:#0a0a0a;stroke-width:1.00157;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="776.17908"
+         y="914.61573"
+         id="tspan17">n-Mal</tspan></text>
+  </g>
+</svg>

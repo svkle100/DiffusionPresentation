@@ -1,0 +1,20 @@
+\begin{frame}{Datenvorbereitung}
+Daten kommen aus dem Paper "De novo prediction of RNA 3D structures with deep generative models" von J. Ramakers,  F. Blum, S. König, S. Harmeling und M. Kollmann
+\begin{enumerate}
+\item Lade alle RNA Strukturen aus der RNASolo Datenbank herunter
+\item Entferne alle Strukturen, die Bindungen zu DNA, einem Protein oder einer anderen RNA haben.
+\item Spalte große komplizierte RNA Strukturen in einzelne Stränge auf
+\item Bilde Cluster  mit maximaler Sequenzidentität von 70\%
+\item Teile Daten basierend auf den Clustern in Trainings-, Validierungs- und Testdaten auf.
+\item Schneide zufällige Teile der RNA raus, sodass die Gesamtlänge maximal 96 Nukleotide beträgt. Behalte nur Ausschnitte bei denen die Anzahl der Nukleotide, die eine Bindung zu einem abgeschnitten Teil der RNA haben, maximal 5\% beträgt.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Datenrepräsentation}
+\begin{itemize}
+\item Für jedes Nukleotide werden die Koordinaten von 3 Atomen in der Base und 2 Atomen im Backbone betrachtet
+\item Da die Koordinaten weder translations- noch rotationsinvariant sind wird daraus nun eine Distanzmatrix berechnet.
+\item Die Distanzmatrizen werden nun vom Diffusionsmodell gelernt
+\item Die vom Diffusionsmodell generierten Distanzmatrizen werden mithilfe von MDS wieder in Koordinaten umgewandelt.
+\end{itemize}
+\end{frame}
